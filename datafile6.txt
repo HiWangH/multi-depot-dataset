@@ -1,0 +1,48 @@
+# of pickup customers
+7
+# of delivery customers
+1
+# of customers
+8
+# of tasks
+16
+# DepotNum
+2
+# vehicles of depot
+3
+3
+# stalls of depot
+3
+3
+# package time
+3.513
+3.498
+2.750
+2.744
+2.097
+3.950
+3.286
+2.376
+# Depot coordinate
+24.450
+-96.226
+-19.777
+80.684
+# customer coordinate
+77.362
+-1.556
+-52.537
+-7.343
+-178.457
+-28.866
+-74.329
+-135.696
+13.089
+-11.923
+30.752
+-36.652
+115.564
+113.604
+153.713
+106.272
+# ENDDATA
